@@ -1,0 +1,73 @@
+Treinamento Oficial e Voucher Google Cloud Platform 100% gratuito para certificação profissional
+
+https://guiadeti.com.br/treinamento-oficial-voucher-google-cloud-platform/
+
+
+Curso 1 https://www.cloudskillsboost.google/course_templates/177
+Curso 2 https://www.cloudskillsboost.google/course_templates/182
+Curso 3 https://www.cloudskillsboost.google/course_templates/188
+Curso 4 https://www.cloudskillsboost.google/course_templates/189
+
+
+
+
+
+
+Creating a Virtual Machine
+https://www.cloudskillsboost.google/focuses/3563?parent=catalog
+
+Create and Manage Cloud Resources: Challenge Lab
+https://www.cloudskillsboost.google/focuses/10258?parent=catalog&qlcampaign=4p-EDUCR-GCCF-CEAR%C3%81_FACULTY_NEW2023-27
+
+Getting Started with Cloud Shell and gcloud
+https://www.cloudskillsboost.google/focuses/563?parent=catalog
+
+APIs Explorer do Google
+https://developers.google.com/apis-explorer?hl=pt-br#p/
+
+Google Cloud Essentials
+https://www.cloudskillsboost.google/quests/23
+
+Understanding Your Google Cloud Costs
+https://www.cloudskillsboost.google/quests/90
+
+
+Compute Engine: Qwik Start - Windows
+https://www.cloudskillsboost.google/focuses/560?parent=catalog
+
+
+Visão geral do Google Cloud
+https://cloud.google.com/docs/overview?hl=pt-br#projects
+
+
+Produtos do Google Cloud
+https://cloud.google.com/products?hl=pt-br#top_of_page
+
+
+Identity and Access Management (IAM)
+https://cloud.google.com/iam?hl=pt-br
+
+
+Guia de projeto da AP
+https://cloud.google.com/apis/design?hl=pt-br
+
+
+APIs Explorer: Qwik Start
+https://www.cloudskillsboost.google/focuses/2457?parent=catalog
+
+
+Getting Started with Cloud Shell and gcloud
+https://www.cloudskillsboost.google/focuses/563?parent=catalog
+
+
+Discover Google Cloud training your way
+https://www.cloudskillsboost.google/catalog?format%5B%5D=quests
+
+
+Creating a Virtual Machine
+https://www.cloudskillsboost.google/focuses/3563?parent=catalog
+
+
+Como entender os papéis
+https://cloud.google.com/iam/docs/understanding-roles?hl=pt-br#primitive%5C_roles
+
