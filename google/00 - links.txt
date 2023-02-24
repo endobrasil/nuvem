@@ -100,3 +100,4 @@ Regiões e zonas
 https://cloud.google.com/compute/docs/regions-zones?hl=pt-br
 
 
+teste para saber se sei usar o git no windows...
