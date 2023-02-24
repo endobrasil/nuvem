@@ -71,3 +71,32 @@ https://www.cloudskillsboost.google/focuses/3563?parent=catalog
 Como entender os papéis
 https://cloud.google.com/iam/docs/understanding-roles?hl=pt-br#primitive%5C_roles
 
+
+Using the Cloud SDK Command Line
+https://www.cloudskillsboost.google/quests/95
+
+
+Provision Services with Google Cloud Marketplace
+https://www.cloudskillsboost.google/focuses/565?parent=catalog
+
+
+Creating a Persistent Disk
+https://www.cloudskillsboost.google/focuses/1753?parent=catalog
+
+
+Configuring Networks via gcloud
+https://www.cloudskillsboost.google/focuses/7140?parent=catalog
+
+
+Documentação do Cloud Shell
+https://cloud.google.com/shell/docs?hl=pt-br
+
+
+Visão geral da CLI gcloud
+https://cloud.google.com/sdk/gcloud?hl=pt-br
+
+
+Regiões e zonas
+https://cloud.google.com/compute/docs/regions-zones?hl=pt-br
+
+
