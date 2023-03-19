@@ -1,0 +1,33 @@
+VPC Networks - Controlling Access
+https://www.cloudskillsboost.google/focuses/1231?parent=catalog
+
+
+Customize Network Topology with Subnetworks
+https://www.cloudskillsboost.google/focuses/690?parent=catalog
+
+
+Creating Cross-region Load Balancing
+https://www.cloudskillsboost.google/focuses/642?parent=catalog
+
+
+Criar e gerenciar redes VPC
+https://cloud.google.com/vpc/docs/create-modify-vpc-networks?hl=pt-br
+
+
+Modelos de instância
+https://cloud.google.com/compute/docs/instance-templates?_ga=2.161325501.-1806263172.1679170305&hl=pt-br
+
+
+App Dev: Setting up a Development Environment - Python
+https://www.cloudskillsboost.google/focuses/1074?parent=catalog
+
+Cloud IAM: Qwik Start
+https://www.cloudskillsboost.google/focuses/22763?parent=catalog
+
+Cloud Storage: Qwik Start - Cloud Console
+https://www.cloudskillsboost.google/focuses/1760?parent=catalog
+
+
+desafio
+Build and Secure Networks in Google Cloud: Challenge Lab
+https://www.cloudskillsboost.google/focuses/12068?parent=catalog&utm_source=qwiklabs&utm_campaign=skillbadge&utm_medium=lp

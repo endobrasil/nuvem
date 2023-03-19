@@ -1,6 +1,13 @@
+https://github.com/Leandromeda/cloud/wiki
+
+
+
 Treinamento Oficial e Voucher Google Cloud Platform 100% gratuito para certificação profissional
 
 https://guiadeti.com.br/treinamento-oficial-voucher-google-cloud-platform/
+
+ver o que aparece aqui...
+https://www.cloudskillsboost.google/?utm_campaign=dashboard&utm_medium=email&utm_source=endlab
 
 
 Curso 1 https://www.cloudskillsboost.google/course_templates/177
@@ -99,4 +106,5 @@ https://cloud.google.com/sdk/gcloud?hl=pt-br
 Regiões e zonas
 https://cloud.google.com/compute/docs/regions-zones?hl=pt-br
 
-
+lab final...
+https://www.cloudskillsboost.google/course_sessions/2267557/documents/343857

@@ -1,0 +1,35 @@
+Cloud Endpoints Frameworks
+https://cloud.google.com/endpoints/docs/frameworks/about-cloud-endpoints-frameworks?hl=pt-br
+
+
+git push origin main
+
+
+git clone https://github.com/googleapis/python-pubsub.git
+
+
+Visão geral da CLI gcloud
+https://cloud.google.com/sdk/gcloud?hl=pt-br
+
+
+
+Security & Identity Fundamentals
+https://www.cloudskillsboost.google/quests/40
+
+
+Networking Fundamentals in Google Cloud
+https://www.cloudskillsboost.google/quests/31
+
+
+
+Getting Started with Cloud KMS
+https://www.cloudskillsboost.google/focuses/1713?parent=catalog
+
+
+App Dev: Adding User Authentication to your Application - Python
+https://www.cloudskillsboost.google/focuses/1071?parent=catalog
+
+
+
+desafio aqui, fiz nao
+https://www.cloudskillsboost.google/focuses/10379?parent=catalog&utm_source=qwiklabs&utm_campaign=skillbadge&utm_medium=lp
