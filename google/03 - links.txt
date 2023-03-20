@@ -27,6 +27,14 @@ https://www.cloudskillsboost.google/focuses/22763?parent=catalog
 Cloud Storage: Qwik Start - Cloud Console
 https://www.cloudskillsboost.google/focuses/1760?parent=catalog
 
+Visão geral do IAM
+https://cloud.google.com/iam/docs/overview?hl=pt-br
+
+
+
+SRE Books
+landing.google.com/sre/books 
+
 
 desafio
 Build and Secure Networks in Google Cloud: Challenge Lab
