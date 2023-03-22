@@ -1,0 +1,17 @@
+We are ending this lab as we have detected that you are not following the lab instructions. Please be aware that we will block your account if you continue this behavior.
+
+
+Data Engineering
+https://www.cloudskillsboost.google/quests/25
+
+Creating a Data Transformation Pipeline with Cloud Dataprep
+https://www.cloudskillsboost.google/focuses/4415?parent=catalog
+
+
+Baseline: Data, ML, AI
+https://www.cloudskillsboost.google/quests/34
+
+
+
+Modelos fornecidos pelo Google
+https://cloud.google.com/dataflow/docs/guides/templates/provided-templates?hl=pt-br
