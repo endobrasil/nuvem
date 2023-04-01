@@ -1,0 +1,85 @@
+Introdução ao Sistema Operacional Linux
+	O que é um sistema operacional
+	O que é o Linux
+	Diferenças entre o Linux Desktop e Linux Server
+
+Instalando o Linux
+
+	Distribuições utilizadas no curso
+	Realizando o download do Virtualbox
+	Instalando o Virtualbox
+	Criando máquinas virtuais
+	Instalando o Linux Ubuntu em MV
+	Desligando máquina virtual - Salvar Estado
+	Criando uma conta na AWS
+	AWS - Criando uma máquina virtual em nuvem (EC2)
+	Utilizando o WSL
+
+Acesso remoto máquina linux
+	Acesso remoto via Windows
+	Acesso remoto via Linux
+	Acessando uma máquina virtual em nuvem (Putty)
+	Acessando uma máquina virtual em nuvem (ssh)
+	Excluindo uma instância na AWS
+
+Trabalhando com arquivos
+	Terminal Linux - Apresentação
+	Navegando pelo sistema de arquivos
+	Filtrando a exibição de arquivos
+	Localizando arquivos
+	Criando diretórios
+	Excluindo arquivos e diretórios
+	Obtendo ajuda
+	Executando tarefas administrativas como root
+	Logando como usuário root
+	Liberando acesso remoto do usuário root
+	Trabalhando com arquivos de texto
+	Histórico de comandos
+
+Trabalhando com usuários
+	Criando e excluindo usuários
+	Editando informações do usuário
+	Shell Script - Criando usuários em lote
+	Adicionando usuários a grupos
+	Criando novos grupos
+	Conhecendo o sistema de permissões
+	Alterando as permissões de um diretório - arquivo
+	Entendendo melhor as permissões de execução para scripts
+
+DESCRIÇÃO
+Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. Sendo assim, toda nova máquina virtual que for iniciada já estará pronta para uso quando o script for executado.
+
+
+Gerenciamento de pacotes
+	Gerenciamento de pacotes (UBUNTU-DEBIAN)
+	Atualização do sistema operacional
+	Instalação de pacotes no ambiente Desktop
+	Gerenciamento de pacotes (FEDORA RED HAT CenTOS)
+	Realizando a instalação de arquivos DEB
+
+
+Gerenciamento de discos
+	Discos, sistemas de arquivos e partições
+	Adicionando um novo disco
+	Particionando e formatando discos via terminal
+	Montando e desmontando discos
+	Montando discos automaticamente
+
+Manipulação de arquivos
+
+Servidor de arquivos
+	Introdução ao servidor de arquivos
+	Instalação do SAMBA e configuração inicial
+	Configurando o acesso via máquina cliente
+
+
+Servidor WEB
+	O que é um servidor WEB
+	Instalando o apache2
+	Executando aplicações web em um servidor Linux
+
+
+Servidor de BD
+
+DESCRIÇÃO
+Neste projeto iremos criar um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões serão criadas automaticamente. Será realizado o upload do arquivo de script no GitHub para futuras reutilizações do script. Sendo assim, toda nova máquina virtual que for iniciada já estará pronta para uso quando o script for executado.

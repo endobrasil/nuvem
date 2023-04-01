@@ -30,6 +30,13 @@ App Dev: Adding User Authentication to your Application - Python
 https://www.cloudskillsboost.google/focuses/1071?parent=catalog
 
 
+A Tour of Google Cloud Sustainability
+https://www.cloudskillsboost.google/focuses/32138?parent=catalog
+
+
+Securing Virtual Machines using BeyondCorp Enterprise (BCE)
+https://www.cloudskillsboost.google/focuses/40544?parent=catalog
+
 
 desafio aqui, fiz nao
 https://www.cloudskillsboost.google/focuses/10379?parent=catalog&utm_source=qwiklabs&utm_campaign=skillbadge&utm_medium=lp

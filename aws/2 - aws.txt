@@ -1,0 +1,70 @@
+Primeiros passos com AWS
+
+	Apresentação inicial
+	Introdução
+	Criação da conta na AWS
+	Realizando o login na plataforma AWS
+	O que é o AWS IAM e Boas práticas
+	Criação de usuário - Parte 1
+	Criação de usuário - Parte 2
+	Estrutura básica das policies de usuários
+	Logando com o novo usuário e revendo políticas de acesso
+	Passo a passo para criação de grupos
+	Passo a passo para criação de roles
+	Configurações finais e conclusão do curso
+
+Conteúdos Oficiais AWS.
+	Explicação sobre os Conteúdos Oficiais AWS
+	O que são e a Importância destes Conteúdos
+	AWS Compute Services Overview
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/DirectLaunch?cid=1z6UJIcxup0_&io=wOoCJPyzt2Q_
+	AWS Global Infrastructure
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	AWS Foundations: Getting Started with the AWS 
+	Cloud Essentials
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521554/1/11/0
+		✅ Descrever a proposição de valor da Nuvem AWS
+		✅ Descrever a infraestrutura global básica da nuvem
+		✅ Descrever e diferenciar os domínios de serviço da AWS
+		✅ Explicar o modelo de responsabilidade compartilhada
+		✅ Descrever a definição de preço da AWS
+	AWS Foundations: Cost Management
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521553/1/11/0
+		✅ Descrever o Cloud Financial Management
+		✅ Identificar os seis recursos necessários para ter sucesso em sua jornada do Cloud Financial Management
+		✅ Avaliar a maturidade da organização em relação a esses seis recursos
+		✅ Explicar as fases de criação do roteiro para o sucesso
+
+
+Introdução ao conceito de cloud
+	Afinal, o que é Cloud Computing
+		* mundo pre clound
+			modelo cliente servidor
+			ambientes on-premises
+			vitrualização
+	Benefícios de Cloud Computing
+	Modelos de serviço
+		IaaS infra
+		PaaS estrutura
+		SaaS software
+	Modelos de Implantação
+
+
+Infraestrutura global AWS
+	O que é Infraestrutura Global AWS
+	Regiões e Zonas de Disponibilidade
+	Pontos de presença
+	Provisionamento de recursos na AWS
+		elastic beanstalk
+		cloudFormation
+
+
+Computação em AWS
+	Elastic Compute Cloud – EC2
+	Amazon EC2 AutoScaling
+	Elastic Load Balancing – ELB
+	Serviços de mensageria
+	Computação sem servidor
+	Containers em AWS
+
+
