@@ -68,3 +68,14 @@ Computação em AWS
 	Containers em AWS
 
 
+Introdução Prática a Computação em Nuvem Usando AWS
+	Apresentação inicial e objetivos do curso
+	Conceitos iniciais sobre AWS e arquitetura do projeto prático
+	Apresentação inicial da plataforma AWS
+	Criando um pool de usuários com Amazon Cognito
+	Criando uma tabela com DynamoDB e criando funções Lambda
+	Editando o código-fonte em JavaScript
+	Criando uma API Gateway e rotas
+	Desenvolvendo as integrações
+	Dúvidas e comentários finais
+GitHub
