@@ -70,12 +70,98 @@ Computação em AWS
 
 Introdução Prática a Computação em Nuvem Usando AWS
 	Apresentação inicial e objetivos do curso
+		baseado na: well-Architected framework
+		pilares: 
+			segurança
+			eficiencia de performance
+			confiabilidade
+			excelẽncia operacional
+			otimização de custos
 	Conceitos iniciais sobre AWS e arquitetura do projeto prático
 	Apresentação inicial da plataforma AWS
 	Criando um pool de usuários com Amazon Cognito
+		criar tabela no DyamoDB: Inserir item de demonstração
+		criar função lambda: Permissões de escrita no DyamoDB
+		criar API de rotas no API Gateway: integração com função lambda
+		serviços relevantes:
+			Cognito: gerenciamento de usuarios
+			EC2
+			Amplify
+			RDS
+			S3
 	Criando uma tabela com DynamoDB e criando funções Lambda
 	Editando o código-fonte em JavaScript
 	Criando uma API Gateway e rotas
 	Desenvolvendo as integrações
 	Dúvidas e comentários finais
 GitHub
+
+
+AWS Official Content - Introdução à Computação em Nuvem com AWS
+	Explicação sobre os Conteúdos Oficiais AWS
+	O que são e a Importância destes Conteúdos
+	Introduction to Amazon Elastic Compute Cloud (EC2)
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521560/1/11/0
+	Introduction to AWS Elastic Beanstalk
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521557/1/11/0
+	Introduction to Amazon EC2 Systems Manager
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Introduction to Amazon Elastic Container Registry
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Introduction to AWS Auto Scaling
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Introduction to Amazon Elastic Load Balancer - Application
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521561/1/11/0
+	Introduction to Amazon Elastic Container Service
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/content-viewer/521564/1/11/0
+
+
+Redes em AWS
+	Amazon VPC
+	Conectividade com AWS
+	Sub-redes e listas de controle de acesso
+	
+
+Armazenamento e Banco de Dados AWS
+	Armazenamento de dados em nuvem
+		objetos
+		arquivos
+		blocos
+	Amazon Elastic Block Store – EBS
+		sobre o save pont só ir incrmentando...
+	Amazon S3
+		Um servico de armazenamento de objetos
+	EFS – Amazon Elastic File System
+	Amazon Relational Database Service
+	DynamoDB
+	Outros serviços de banco de dados
+		Amazon DocumentDB
+		Amazon Netune
+		Amazon QLDB
+		Amazon DynamonDB Accelerator
+		Amazon Elasticache	
+	Big Data com Amazon Redshift
+		Amazon Redshift
+
+Imersão ao Ecossistema Cloud Data AWS
+	Abertura
+	Imersão ao Ecossistema Cloud Data AWS
+	Processamento em Cloud com a ferramenta Ec2
+	Sistemas de Gerenciamento de Bancos de Dados com RDS
+	Armazenamento em Cloud com a ferramenta S3
+	Fechamento
+
+AWS Official Content - Armazenamento e Banco de Dados na AWS
+	Explicação sobre os Conteúdos Oficiais AWS
+	O que são e a Importância destes Conteúdos
+	Amazon DynamoDB Service Introduction
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Amazon DynamoDB for Serverless Architectures
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Amazon RDS Service Introduction
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Amazon Aurora MySQL - Basics
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+	Introduction to AWS Storage Gateway
+	Introduction to AWS Backup
+
