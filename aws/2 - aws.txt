@@ -156,12 +156,50 @@ AWS Official Content - Armazenamento e Banco de Dados na AWS
 	O que são e a Importância destes Conteúdos
 	Amazon DynamoDB Service Introduction
 		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+		✅ Descrever a finalidade e a função do serviço
+		✅ Resumir os benefícios do serviço
+		✅ Descrever como o serviço funciona
+		✅ Identificar casos de uso para o serviço
+		✅ Distinguir como o serviço é faturado		
 	Amazon DynamoDB for Serverless Architectures
 		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+		✅ Criar uma arquitetura serverless usando o DynamoDB e outros serviços da AWS
+		✅ Usar os recursos do DynamoDB para fornecer soluções serverless
+		✅ Configurar e acessar o Amazon DynamoDB
+		✅ Projetar e arquitetar uma aplicação serverless
+		✅ Diferenciar sistemas de banco de dados SQL e NoSQL
+		✅ Migrar do RDMS existente para o Amazon DynamoDB
+		✅ Monitorar o desempenho usando CloudWatch, CloudTrail, CloudWatch Logs etc		
 	Amazon RDS Service Introduction
 		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
-	Amazon Aurora MySQL - Basics
+		✅ Listar o propósito do serviço e sua função
+		✅ Resuma os benefícios do serviço
+		✅ Lembre-se de como o serviço funciona
+		✅ Identificar casos de uso para o serviço
+		✅ Reconhecer como o serviço é cobrado
+	Amazon Aurora MySQL - Basics	
 		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
+		✅ Explicar o Aurora e sua arquitetura
+		✅ Definir alta disponibilidade no Aurora
+		✅ Definir conceitos básicos de armazenamento
+		✅ Identificar recursos importantes do Aurora
 	Introduction to AWS Storage Gateway
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing		
 	Introduction to AWS Backup
+		https://cloud.contentraven.com/awspartners/DigitalInnovationOne/landing
 
+Projeto: Infraestrutura Como Código com Serverless Framework na AWS
+	Como usar os desafios de projeto para criar seu portifolio
+	apresentação inicial
+	proposta de conteúdo
+	o que é serverless
+	Conceitos centrais
+	O desafio prático
+	Criando e configurando um usuário
+	Criação do projeto e configurações iniciais
+	Criando tabela de banco de dados
+	Criando as funções - parte 1
+	Criando as funções - parte 2
+	Criando as funções - parte 3
+	Revisão, desafios futuros e comentários finais
+	Entendendo o desafio
