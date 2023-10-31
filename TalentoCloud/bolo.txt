@@ -1,0 +1,7 @@
+Pedro foi ao supermercado e comprou ovos, leite, farinha, açúcar, manteiga e achocolatado em pó para fazer um bolo de chocolate. Como ele nunca fez um bolo antes, ele está bastante confuso e perdido. Auxilie Pedro construindo uma sequência lógica dos passos necessários para a preparação desse bolo. 
+
+1) Em um liquidificador adicione os ovos, o chocolate em pó, a manteiga, a farinha, o açúcar e o leite.
+2) depois bata por 5 minutos.
+3) Em uma forma untada, despeje a massa 
+4) asse em forno médio (180 ºC) preaquecido por cerca de 40 minutos. 
+
