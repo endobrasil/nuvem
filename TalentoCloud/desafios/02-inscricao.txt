@@ -8,19 +8,21 @@ Em uma inscrição, o usuário informou os seguintes dados:
 
 No algoritmo, descreva como será:
 
-1. o identificador das variáveis;
-Nome, CPF, RG, Altura, Endereco
-
-2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
+var
 Nome: caractere
 CPF: inteiro
 RG: inteiro
 Altura: real
 Endereco: caractere
 
-3. a utilização do comando de atribuição, apresentando identificador e dado.
+inicio
+leia(Nome)
 Nome<- "José Almeida da Silva"
+leia(CPF)
 CPF<- 12345678900
+leia(RG)
 RG<- 9517530
+leia(Altura)
 Altura<- 1,78
+leia(Endereço)
 Endereço<- "Rua A, 380 – Centro – Recife/PE"
