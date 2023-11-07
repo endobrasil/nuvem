@@ -26,3 +26,9 @@ leia(Altura)
 Altura<- 1,78
 leia(Endereço)
 Endereço<- "Rua A, 380 – Centro – Recife/PE"
+
+escreva("Nome: ", Nome)
+escreva("CPF: ", CPF)
+escreva("RG: ", RG)
+escreva("Altura: ", Altura)
+escreva("Endereço: ", Endereço)
