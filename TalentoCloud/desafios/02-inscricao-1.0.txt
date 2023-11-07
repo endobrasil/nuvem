@@ -1,0 +1,35 @@
+Em uma inscrição, o usuário informou os seguintes dados:
+
+- Nome: José Almeida da Silva
+- CPF: 12345678900
+- RG: 9517530
+- Altura: 1,78
+- Endereço: Rua A, 380 – Centro – Recife/PE
+
+No algoritmo, descreva como será:
+
+var
+Nome: caractere
+CPF: inteiro
+RG: inteiro
+Altura: real
+Endereco: caractere
+
+inicio
+escreva("Informe seu Nome")
+leia(Nome)
+escreva("Informe seu CPF")
+leia(CPF)
+escreva("Informe seu RG")
+leia(RG)
+escreva("Informe sea Altura")
+leia(Altura)
+escreva("Informe seu Endereço")
+leia(Endereço)
+Endereço<- "Rua A, 380 – Centro – Recife/PE"
+
+escreva("Nome: ", Nome)
+escreva("CPF: ", CPF)
+escreva("RG: ", RG)
+escreva("Altura: ", Altura)
+escreva("Endereço: ", Endereço)
