@@ -8,27 +8,19 @@ Em uma inscrição, o usuário informou os seguintes dados:
 
 No algoritmo, descreva como será:
 
-var
+1. o identificador das variáveis;
+Nome, CPF, RG, Altura, Endereco
+
+2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
 Nome: caractere
 CPF: inteiro
 RG: inteiro
 Altura: real
 Endereco: caractere
 
-inicio
-leia(Nome)
+3. a utilização do comando de atribuição, apresentando identificador e dado.
 Nome<- "José Almeida da Silva"
-leia(CPF)
 CPF<- 12345678900
-leia(RG)
 RG<- 9517530
-leia(Altura)
 Altura<- 1,78
-leia(Endereço)
 Endereço<- "Rua A, 380 – Centro – Recife/PE"
-
-escreva("Nome: ", Nome)
-escreva("CPF: ", CPF)
-escreva("RG: ", RG)
-escreva("Altura: ", Altura)
-escreva("Endereço: ", Endereço)
