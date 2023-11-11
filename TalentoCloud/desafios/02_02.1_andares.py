@@ -11,6 +11,7 @@ Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 
 andares=int(input("quantos andares tem o prédio?"))
 while andares>0:
+	#teste para o que não deve ser impresso
 	if andares==13:
 		pass
 	else:
