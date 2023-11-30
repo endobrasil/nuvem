@@ -14,6 +14,7 @@ lista_produtos = ['máscaras faciais', 'batons', 'esmaltes', 'perfumes', 'loçõ
 
 Como desafio, adicione dois novos produtos da sua escolha à lista. 
 """
+
 #lista base
 lista_produtos = ['máscaras faciais', 'batons', 'esmaltes', 'perfumes', 'loções', 'xampus', 'sabonetes', 'delineadores']
 
