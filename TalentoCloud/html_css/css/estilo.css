@@ -1,0 +1,18 @@
+body{
+    background-color: yellowgreen;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+p{
+    color: red;
+    text-align: right;
+}
+
+div{
+    padding: 60px;
+    margin: 30px;
+    border: 9px solid brown;
+}
+
