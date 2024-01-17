@@ -190,11 +190,21 @@ AWS Official Content - Armazenamento e Banco de Dados na AWS
 
 Projeto: Infraestrutura Como Código com Serverless Framework na AWS
 	Como usar os desafios de projeto para criar seu portifolio
-	apresentação inicial
-	proposta de conteúdo
-	o que é serverless
+	Apresentação inicial		
+	Proposta de conteúdo
+		- Criação de uma infraestrutura em nuvem baseada em AWS para a publicação de funções CRUD com lambda, BD e API utilizando o Serverless Framework
+	O que é serverless
+		- sem servidor
+		- serverless X server
+		@ serverless framework
 	Conceitos centrais
+		funções: unidade independente de implantação. (salvar usuario no BD, processar arquivo, realizar tarefa agendada)
+		eventos: qualquer coisa que acione uma função. (requisição de um endpoint, uploiad arquivo, alerta amazon cloudwhatch)
+		resources: componentes de infraestrutura. (tabela dynamonDB, s3 bucket, tópico SNS)
+		services: unidade do framework, o arquivo de projeto, yaml ou json, nomeado como serverless.yml OU serverless.json
 	O desafio prático
+		configurar um arquivo serverless.yml e realizar o deploy uma estrutura de nuvem AWS com serviços:
+			lambda, DynamonDB, API Gateway, CloudFormation
 	Criando e configurando um usuário
 	Criação do projeto e configurações iniciais
 	Criando tabela de banco de dados
