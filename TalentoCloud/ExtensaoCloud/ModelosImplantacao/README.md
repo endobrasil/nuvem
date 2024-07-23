@@ -20,3 +20,17 @@ Questões que você deve levar em consideração ao escrever sua solução:
 2. Custos: Como você gerenciaria os custos da migração e operação na nuvem, garantindo que o hospital obtenha o melhor retorno sobre o investimento?
 3. Integração com Sistemas Legados: Qual seria sua estratégia para integrar os sistemas legados com os novos sistemas na nuvem, minimizando a interrupção dos serviços hospitalares e garantindo a compatibilidade?
 </h3>
+<hr>
+<h1>RESPOSTA</h1>
+<h2>
+1. Segurança: Quais medidas específicas você implementaria para garantir a segurança dos dados dos pacientes na nuvem, considerando as preocupações com possíveis vulnerabilidades e ataques cibernéticos?
+<li> Criptografia dos dados</li>
+<li> Criação de políticas de acesso, onde cada agente só tem mínimo de acesso para que necessita em desempenhar suas funções</li>
+
+2. Custos: Como você gerenciaria os custos da migração e operação na nuvem, garantindo que o hospital obtenha o melhor retorno sobre o investimento?
+<li> Usar as ferramentas AWS que monitoram os gastos dos recursos que estão sendo usados e cobranças.</li>
+
+3. Integração com Sistemas Legados: Qual seria sua estratégia para integrar os sistemas legados com os novos sistemas na nuvem, minimizando a interrupção dos serviços hospitalares e garantindo a compatibilidade?
+<li>Veriicar esta compatibilidade</li>
+<li>Migra de forma escalar</li>
+</h2>
