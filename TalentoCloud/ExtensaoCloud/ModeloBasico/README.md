@@ -21,5 +21,19 @@ Recursos
 <hr>
 <h1>RESPOSTA</h1>
 <h2>
+1. Quais são as principais etapas que você seguiria no planejamento e execução da migração de uma aplicação legado para a AWS? Detalhe o processo de auditoria da infraestrutura atual, a seleção dos serviços AWS apropriados e a execução da migração.
+    <li> Mapear todos os componentes da aplicação, como servidores, bancos de dados, armazenamento e dependências.</li> 
+    <li> Identificar problemas de escalabilidade, desempenho e disponibilidade na infraestrutura atual.</li>
 
+2. Como você garantiria que a aplicação migre para a AWS sem causar interrupções significativas para os usuários? Descreva os métodos e ferramentas que utilizaria para testar a aplicação durante a migração e para minimizar o tempo de inatividade.
+    <li>Criar instâncias EC2, bancos de dados RDS e buckets S3. </li>
+    <li>Migrar os dados dos servidores locais para a nuvem usando serviços como o AWS Database Migration Service (DMS). 
+    <li>Realizar testes de funcionalidade, desempenho e carga para garantir que a aplicação funcione corretamente na nova infraestrutura. </li>
+    <li>Realizar testes</li>. 
+    <li>Garantir que todas as funcionalidades da aplicação estejam operacionais na nova infraestrutura. </li>
+    <li>Realizar testes de performance para avaliar o desempenho da aplicação sob carga, garantindo que a escalabilidade e a disponibilidade sejam atendidas.</li>
+
+3. Quais benefícios específicos da nuvem AWS você espera aproveitar após a migração e como planeja otimizar o desempenho da aplicação na nova infraestrutura?
+Recursos
+    <li>É importante aproveitar as múltiplas regiões e zonas de disponibilidade da AWS para configurar uma infraestrutura redundante que aumente a disponibilidade e a tolerância a falhas. Backups automatizados com serviços como o AWS Backup devem ser utilizados para garantir a recuperação rápida em caso de falhas.</li>
 </h2>
